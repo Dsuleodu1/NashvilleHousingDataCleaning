@@ -7,18 +7,13 @@ Importing Nashville Housing Excel dataset into SQL Server pulling up to 60,000+ 
 
 ## Features
 
-- Created with Microsoft Azure Sentinel (SIEM) log analytics.
-- Provides Knowledge of KQL, PowerShell scripting, remote desktop protocol and virtual machines.
-- No installation necessary just create azure free account ![]().
-- Gives you hands on experience dropping firewall rules and creating new users to RDP into.
-- Allows you to visualize 24hrs of cyber attacks with precise insights on attackers information.
+- Created with Microsoft Excel and SQL Server.
+- Provides Knowledge of data cleaning, precise documentation and common SQL quering methods on how to filter out larger datasets.
+- Can download kaggle MS Excel file and dowload SQL Server to preform project. ![]().
+- Gives you hands on experinece working with large datasets, understanding which SQL statements are required to clean and organize data.
+- Allows you to organize a large dataset with precise prarameters and get rid of unwanted/uncessary data.
 - Works on Mac, Linux and Windows
 
-### Output
-
-![](https://github.com/Dsuleodu1/Azure-Soc-Lab/blob/main/Screenshot%202025-06-11%20093936.png)
-
-> This is the completed visualization of our Microsft Sentinel Log analysis map after 24 hours of monitoring our system. As you can see this visualization presents various locations around the world where our attackers geoIp were found based on our log analytics. Using our PowerShell script we comprised we were able to automate a task in (KQL) Kusto Query Language allowing us to filter out our log analytics to key in on specifications like; time generated, computer, attackerIp, Ipaddres, city name, country name, latitude, and longitude. 
 
 ## Tools
-- Azure Sentinel, KQL, Virtual Machines, Remote desktop protocol, PowerShell, Windows Event logs
+- SQL, MS Excel, Data Cleaning, Documentation Practices
