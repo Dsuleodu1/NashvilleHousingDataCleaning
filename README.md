@@ -1,10 +1,9 @@
-![](https://www.baeldung.com/wp-content/uploads/sites/4/2023/04/Password-Cracking.png)
+![](https://github.com/Dsuleodu1/Portfolio/blob/main/images/images%20(1).jfif)
 
-# Azure-Soc-Lab
+# Nashville-Housing-Data-Cleaning
 
-An Azure Sentinel (SIEM) connected to a live virtual machine acting as a honeypot to lure in real life cyber attackers. We will observe live attacks (RDP Brute Force) from all around the world using a custom PowerShell script to look up attackers Geolocation information and then plot it into Azure Sentinel Map to visualize it!
-
-![](https://github.com/Dsuleodu1/Azure-Soc-Lab/blob/main/Screenshot%202025-06-11%20093403.png)
+Importing Nashville Housing Excel dataset into SQL Server pulling up to 60,000+ rows of data to be cleaned. Documented data cleaning processes by various methods for example; a sold as vacant field, removing duplicates, and deleting unused colomuns. Practiced using common SQL statements to help grab required data from dataset to help filter out unwanted colomuns and rows. 
+![](https://github.com/Dsuleodu1/DataAnalystProjects/blob/main/NashvilleHousingDataCleaning.sql)
 
 ## Features
 
