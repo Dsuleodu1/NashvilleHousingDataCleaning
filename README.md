@@ -3,7 +3,9 @@
 # Nashville-Housing-Data-Cleaning
 
 Importing Nashville Housing Excel dataset into SQL Server pulling up to 60,000+ rows of data to be cleaned. Documented data cleaning processes by various methods for example; a sold as vacant field, removing duplicates, and deleting unused colomuns. Practiced using common SQL statements to help grab required data from dataset to help filter out unwanted colomuns and rows. 
-![](![](https://github.com/Dsuleodu1/Azure-Soc-Lab/blob/main/Screenshot%202025-06-11%20093403.png))
+
+![Screenshot 2025-07-01 100353](https://github.com/user-attachments/assets/3eaf91e5-dd52-408c-85f5-93d11a607978)
+
 
 ## Features
 
